@@ -53,7 +53,7 @@ The executable is built for Windows. It is not compatible with macOS or Linux.
 
 ## Suggestions
 
-If you have ideas for features, improvements, or encoding edge cases this tool doesn't handle well, feel free to open an issue or leave a comment. Feedback is welcome.
+If you have ideas for features, improvements, or encoding edge cases this tool doesn't handle well, feel free to open an issue. Feedback is welcome.
 
 ---
 
